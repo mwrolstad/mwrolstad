@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mwrolstad
 - 👀 I’m interested in all things data related to sports!
-- 🌱 I’m currently learning AWS technologies at Tableau!
+- 🌱 I’m currently scraping the internet at scale at Surge.AI!
 - 📫 You can reach me at mason.wrolstad@hotmail.com
 
 <!---
